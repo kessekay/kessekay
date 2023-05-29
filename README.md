@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kessekay
 - 👀 I’m interested in web application development.
-- 🌱 I’m currently learning react js, node js and tensorflow js for machine learning.
+- 🌱 I’m currently building web applications with react js, next js, node js and tensorflow js for machine learning.
 - 💞️ I’m looking to collaborate on both frontend and backend projects.
 - 📫 How to reach me kessekobbina.com
 
